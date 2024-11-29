@@ -1,0 +1,7 @@
+@import url('https://fonts.cdnfonts.com/css/ds-digital');
+
+.digital-clock {
+  font-family: 'DS-Digital', sans-serif;
+  color: #32cd32; /* Cambia a verde para simular reloj digital */
+  letter-spacing: 0.1em; /* Espaciado entre caracteres para un look digital */
+}
